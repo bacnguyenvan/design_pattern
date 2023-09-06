@@ -82,7 +82,7 @@ createAndRenderDialog($windowsDialog);
 
 echo "----------------------\n";
 
-// Using Linux dialog
+// Using web dialog
 echo "Using Web Dialog:\n";
 $webDialog = new WebDialog();
 createAndRenderDialog($webDialog);
